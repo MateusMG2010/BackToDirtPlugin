@@ -1,0 +1,11 @@
+name: "BackToDirt"
+description: "$description"
+prefix: "BackToDirt"
+version: '${version}'
+
+main: net.mgstudios.btd.backToDirt.BackToDirt
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ "@MateusMG2010" ]
+website: "https://modrinth.com/plugin/back-to-dirt-plugin"
